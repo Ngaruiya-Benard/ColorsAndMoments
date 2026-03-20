@@ -1,3 +1,7 @@
+# collaborators 
+Ashlyn 
+Ben
+
 # Photography Business Web App
 
 A modern, full-featured web application for advertising a professional photography business. Built with Next.js 14, TypeScript, and Tailwind CSS.
