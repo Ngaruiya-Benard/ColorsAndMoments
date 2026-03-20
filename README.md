@@ -1,6 +1,6 @@
-# collaborators 
-Ashlyn 
-Ben
+# Collaborators 
+Ashlyn Ngaruiya
+Benard Ngaruiya
 
 # Photography Business Web App
 
