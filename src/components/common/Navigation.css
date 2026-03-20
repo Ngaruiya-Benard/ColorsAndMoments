@@ -1,0 +1,8 @@
+.ext-nav-bar:hover {
+    color: #2563eb; /* blue-600 */
+    transition: color 0.15s ease-in-out;
+}
+
+.ext-nav-bar {
+    color: black;
+}
