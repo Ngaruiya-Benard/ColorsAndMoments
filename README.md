@@ -2,6 +2,11 @@
 - Ashlyn Ngaruiya
 - Benard Ngaruiya
 
+# Summary
+A website is a comapny's digital storefront that shapes the first impression and builds
+trust just at a glance.It has several advantages one being, it expands reach beyond the 
+physical border and also turns visitors into loyal customers.
+
 # Photography Business Web App
 
 A modern, full-featured web application for advertising a professional photography business. Built with Next.js 14, TypeScript, and Tailwind CSS.
