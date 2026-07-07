@@ -9,7 +9,7 @@ export default function Portfolio() {
   return (
     <main className="min-h-screen bg-white py-20 px-4 md:px-8">
       <section className="max-w-7xl mx-auto">
-        <h1 className="text-4xl font-bold mb-4">Our Portfolio</h1>
+        <h1 className="text-4xl text-black font-bold mb-4">Our Portfolio</h1>
         <p className="text-gray-600 mb-12 text-lg">
           Explore our collection of beautiful moments we've captured
         </p>
