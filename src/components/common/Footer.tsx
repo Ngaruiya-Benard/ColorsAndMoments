@@ -34,7 +34,7 @@ export default function Footer() {
 
         <div>
           <h4 className="font-semibold mb-4">Services</h4>
-          <ul className="space-y-2 text-gray-400">
+          <ul className="space-y-2 text-black-400">
             <li>Weddings</li>
             <li>Portraits</li>
             <li>Events</li>
